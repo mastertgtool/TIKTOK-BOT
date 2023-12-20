@@ -196,8 +196,8 @@ class Bot:
 ░░░██║░░░██║██║░╚██╗░░░██║░░░╚█████╔╝██║░╚██╗  ██████╦╝╚█████╔╝░░░██║░░░
 ░░░╚═╝░░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝  ╚═════╝░░╚════╝░░░░╚═╝░░░
 
-Made by : Simon Farah
-Github  : https://github.com/simonfarah/tiktok-bot
+Made by : Master TG 
+Github  : https://github.com/mastertgtool/TIKTOK-BOT.git
 
 ------------------------------------------------------------------------
 """
